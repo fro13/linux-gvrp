@@ -1,2 +1,2 @@
 # linux-gvrp
-Enabling GVRP on the all Interfaces.
+Activate GVRP on every VLAN interface.
